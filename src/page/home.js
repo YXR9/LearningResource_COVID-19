@@ -25,7 +25,7 @@ export default function home() {
               <List.Item.Meta title={<a href='https://healthmatters.nyp.org/%e5%a6%82%e4%bd%95%e4%bf%9d%e8%ad%b7%e6%82%a8%e8%87%aa%e5%b7%b1%e5%85%8d%e5%8f%97%e6%96%b0%e5%9e%8b%e5%86%a0%e7%8b%80%e7%97%85%e6%af%92%e6%84%9f%e6%9f%93/' target="_blank" style={{fontSize: '20px'}}>預防 COVID-19：如何保護您自己免受新型冠狀病毒感染</a>}/>
             </List.Item>
             <List.Item>
-              <List.Item.Meta title={<a href='https://www.bbc.com/zhongwen/trad/57403701' target="_blank" style={{fontSize: '20px'}}>台灣疫情：「停課不停學」 英國是如何做的</a>}/>
+              <List.Item.Meta title={<a href='https://www.bbc.com/zhongwen/trad/57403701' target="_blank" style={{fontSize: '20px'}}>台灣疫情：「停課不停學」英國是如何做的</a>}/>
             </List.Item>
             <List.Item>
               <List.Item.Meta title={<a href='https://www.cdc.gov.tw/Category/MPage/epjWGimoqASwhAN8X-5Nlw' style={{fontSize: '20px'}}>疫苗簡介</a>}/>
@@ -38,7 +38,7 @@ export default function home() {
               <List.Item.Meta title={<a href='https://www.youtube.com/watch?v=5sEavyYt1us' target="_blank" style={{fontSize: '20px'}}>疫苗接種UP，群體免疫來！</a>}/>
             </List.Item>
             <List.Item>
-              <List.Item.Meta title={<a href='https://www.youtube.com/watch?v=mkCFCbjnllI&t=155s' target="_blank" style={{fontSize: '20px'}}>增加 感染風險 的 《5 種情況》</a>} />
+              <List.Item.Meta title={<a href='https://www.youtube.com/watch?v=mkCFCbjnllI&t=155s' target="_blank" style={{fontSize: '20px'}}>增加 感染風險的《5 種情況》</a>} />
             </List.Item>
             <List.Item>
               <List.Item.Meta title={<a href='https://www.youtube.com/watch?v=Kqd7IsdOewc' target="_blank" style={{fontSize: '20px'}}>為什麼小朋友不能出門了？可怕的新型冠狀病毒，兒童如何防護新型冠狀病毒？最全科普繪本告訴你！</a>}/>
