@@ -5,7 +5,7 @@ import Home from './page/home'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Routes>
             <Route exact path="/" element={<Home/>}/>
         </Routes>
