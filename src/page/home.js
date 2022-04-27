@@ -1,10 +1,12 @@
 import React from 'react'
 import { List, Divider } from 'antd';
+import { Link } from 'react-router-dom';
 
 export default function home() {
   return (
     <div className='App'>
         <h1 style={{ textAlign: 'center', fontWeight: 'bolder' }}>新冠肺炎相關資料</h1>
+        <a href='http://140.115.126.175:8000/'>返回探究系統</a>
         <Divider orientation="left" style={{fontSize: '20px', fontWeight: 'bolder'}}>COVID-19 文章</Divider>
           <List size="large" bordered>
             <List.Item>
