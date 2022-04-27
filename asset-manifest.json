@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LearningResource_COVID-19/static/css/main.4ba7b848.css",
-    "main.js": "/LearningResource_COVID-19/static/js/main.a162ab08.js",
+    "main.js": "/LearningResource_COVID-19/static/js/main.9d7766f6.js",
     "static/js/787.2e3f9522.chunk.js": "/LearningResource_COVID-19/static/js/787.2e3f9522.chunk.js",
     "index.html": "/LearningResource_COVID-19/index.html",
     "main.4ba7b848.css.map": "/LearningResource_COVID-19/static/css/main.4ba7b848.css.map",
-    "main.a162ab08.js.map": "/LearningResource_COVID-19/static/js/main.a162ab08.js.map",
+    "main.9d7766f6.js.map": "/LearningResource_COVID-19/static/js/main.9d7766f6.js.map",
     "787.2e3f9522.chunk.js.map": "/LearningResource_COVID-19/static/js/787.2e3f9522.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ba7b848.css",
-    "static/js/main.a162ab08.js"
+    "static/js/main.9d7766f6.js"
   ]
 }
